@@ -11,6 +11,6 @@ class Shoe
   end
   
   def cobble
-    "TYour shoe is as good as new!"
+    "Your shoe is as good as new!"
   end
 end

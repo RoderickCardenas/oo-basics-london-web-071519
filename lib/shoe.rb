@@ -3,10 +3,6 @@ class Shoe
   attr_accessor :color, :size, :material
   attr_reader :brand
   
-  def brand
-    @brand
-  end
-  
   def condition=(condition)
     @condition = condition
   end

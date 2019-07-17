@@ -9,4 +9,8 @@ class Shoe
   def brand
     @brand
   end
+  
+  def cobble
+    "The shoe has been repaired"
+  end
 end

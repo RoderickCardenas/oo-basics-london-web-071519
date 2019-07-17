@@ -10,7 +10,10 @@ class Shoe
     @brand
   end
   
+  def cobble=(cobble)
+    @cobble = "Your shoe is as good as new!"
+  end
   def cobble
-    "Your shoe is as good as new!"
+    @cobble
   end
 end
